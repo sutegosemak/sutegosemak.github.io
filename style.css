@@ -1,8 +1,18 @@
 .jumbotron {
   padding-top: 5rem;
-  background-color: #e2edff;
+  background-color: #aaaa;
+}
+.jumbotron{
+  background-image: url('img/1.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  color: #eaeaea;
+}
+.jumbotron {
+  
 }
 
 section {
   padding-top: 4rem;
 }
+
